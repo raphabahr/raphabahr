@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/Lionbahr"><img src="https://api.daily.dev/devcards/24a31387c60e4136bfc0994a64523ee7.png?r=mkz" width="400" alt="Raphael Bahr's Dev Card"/></a>
+<a href="https://app.daily.dev/Lionbahr"><img src="https://api.daily.dev/devcards/24a31387c60e4136bfc0994a64523ee7.png?r=sua" width="400" alt="Raphael Bahr's Dev Card"/></a>
 
 <!--
 **raphabahr/raphabahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
