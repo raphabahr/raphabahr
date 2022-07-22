@@ -3,7 +3,8 @@ My name is Raphael i am frontend developer and student.
 
 <a href="https://app.daily.dev/Lionbahr"><img src="https://api.daily.dev/devcards/24a31387c60e4136bfc0994a64523ee7.png?r=sua" width="400" alt="Raphael Bahr's Dev Card"/></a>
 
-<div class="tenor-gif-embed" data-postid="17611078" data-share-method="host" data-aspect-ratio="1.30081" data-width="100%"><a href="https://tenor.com/view/cat-computer-mouse-notebook-developer-gif-17611078">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![cat-computer](https://user-images.githubusercontent.com/93839553/180490189-9b10afbe-1590-4811-b1d3-6de63ea6c7c7.gif)
+
 
 <!--
 **raphabahr/raphabahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,5 +27,9 @@ Here are some ideas to get you started:
 ### Learning too
 Shopify - Liquid             
           
-
+<div>
+<a href="https://github.com/raphabahr">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphabahr&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphabahr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
           
