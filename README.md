@@ -1,7 +1,7 @@
 ### Hi there ! Welcome to my GitHub profile 👋
 My name is Raphael i am frontend developer and student.
 
-<a href="https://app.daily.dev/Lionbahr"><img src="https://api.daily.dev/devcards/24a31387c60e4136bfc0994a64523ee7.png?r=sua" width="400" alt="Raphael Bahr's Dev Card"/></a>
+<a href="https://app.daily.dev/Lionbahr"><img src="https://api.daily.dev/devcards/24a31387c60e4136bfc0994a64523ee7.png?r=nik" width="400" alt="Raphael Bahr's Dev Card"/></a>
 
 ![cat-computer](https://user-images.githubusercontent.com/93839553/180490189-9b10afbe-1590-4811-b1d3-6de63ea6c7c7.gif)
 
