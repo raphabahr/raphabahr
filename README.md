@@ -1,5 +1,5 @@
 ### Hi there ! Welcome to my GitHub profile 👋
-My name is Raphael i am frontend developer.
+My name is Raphael i am Front-end developer.
 
 <div style="display: inline_block"> <br>
 <a href="https://app.daily.dev/Lionbahr"><img src="https://api.daily.dev/devcards/24a31387c60e4136bfc0994a64523ee7.png?r=m2d" width="400" alt="Raphael Bahr's   Dev Card"/></a>
