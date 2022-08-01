@@ -1,5 +1,5 @@
 ### Hi there ! Welcome to my GitHub profile 👋
-My name is Raphael i am frontend developer and student.
+My name is Raphael i am frontend developer.
 
 <a href="https://app.daily.dev/Lionbahr"><img src="https://api.daily.dev/devcards/24a31387c60e4136bfc0994a64523ee7.png?r=m2d" width="400" alt="Raphael Bahr's Dev Card"/></a>
 
@@ -33,5 +33,17 @@ Shopify - Liquid
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphabahr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<br>       
+<br>  
+          
 <img src='https://random-memer.herokuapp.com/' title="Meme" width="500" alt="Please refresh the page if the meme doesn't show up.">
+          
+<br>
+<!--
+ <div>
+   <a href="https://github.com/raphabahr" target="_blank">
+      <img class="" src='https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white' title="steam" width="100" />
+   </a>
+</div>         
+-->         
+  
+ <p class="copyright">&copy; Copyright Raphael Bahr - 2022</p>
