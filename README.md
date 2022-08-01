@@ -32,4 +32,5 @@ Shopify - Liquid
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphabahr&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphabahr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-          
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" width="500" alt="Please refresh the page if the meme doesn't show up.">
