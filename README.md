@@ -1,8 +1,12 @@
 ### Hi there ! Welcome to my GitHub profile 👋
 My name is Raphael i am frontend developer.
 
-<a href="https://app.daily.dev/Lionbahr"><img src="https://api.daily.dev/devcards/24a31387c60e4136bfc0994a64523ee7.png?r=m2d" width="400" alt="Raphael Bahr's Dev Card"/></a>
-
+<div style="display: inline_block"> <br>
+<a href="https://app.daily.dev/Lionbahr"><img src="https://api.daily.dev/devcards/24a31387c60e4136bfc0994a64523ee7.png?r=m2d" width="400" alt="Raphael Bahr's   Dev Card"/></a>
+          
+![raphaterm](https://user-images.githubusercontent.com/93839553/182177010-c9ff0ee3-bcd2-4a58-991c-b5e916aa28a1.jpeg)   
+<div/>
+          
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/raphael-bahr-92a73468/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Raphael Linkedin" height="30" width="40" /></a>
