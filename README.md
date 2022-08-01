@@ -3,7 +3,15 @@ My name is Raphael i am frontend developer.
 
 <a href="https://app.daily.dev/Lionbahr"><img src="https://api.daily.dev/devcards/24a31387c60e4136bfc0994a64523ee7.png?r=m2d" width="400" alt="Raphael Bahr's Dev Card"/></a>
 
-![cat-computer](https://user-images.githubusercontent.com/93839553/180490189-9b10afbe-1590-4811-b1d3-6de63ea6c7c7.gif)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/raphael-bahr-92a73468/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Raphael Linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/raphaelbahr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Raphael instagram" height="30" width="40" /></a>
+
+</p>
+
+
+
 
 
 <!--
@@ -20,6 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 ### Eternal learner of 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
