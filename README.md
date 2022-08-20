@@ -3,20 +3,16 @@ My name is Raphael i am Front-end developer.
 
 <div style="display: inline_block"> <br>
 <a href="https://app.daily.dev/Lionbahr"><img src="https://api.daily.dev/devcards/24a31387c60e4136bfc0994a64523ee7.png?r=m2d" width="400" alt="Raphael Bahr's   Dev Card"/></a>
-          
-![raphaterm](https://user-images.githubusercontent.com/93839553/182177010-c9ff0ee3-bcd2-4a58-991c-b5e916aa28a1.jpeg)   
-<div/>
+
           
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/raphael-bahr-92a73468/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Raphael Linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/raphaelbahr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Raphael instagram" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/raphael-bahr-92a73468/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Raphael Linkedin" height="30" width="40" /></a>
 </p>
 
-
-
-
+Amante incondicional de tudo que envolve tecnologia, tenho 34 anos e moro em Santa Catarina, em janeiro de 2022 voltei a estudar Front-end, área qual sou apaixonado!
+Minha personalidade é: aprender tudo que posso, conhecimento NUNCA é demais pra mim, aprendo rápido e estou disposto a enfrentar qualquer desafio!
+Quanto maior o bug melhor é o aprendizado e maior é minha realização pessoal 😁😁😁
 
 <!--
 **raphabahr/raphabahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
