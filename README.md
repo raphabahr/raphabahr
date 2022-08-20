@@ -11,27 +11,6 @@ Amante incondicional de tudo que envolve tecnologia, tenho 34 anos e moro em San
 </br>
 Minha personalidade é: aprender tudo que posso, conhecimento NUNCA é demais pra mim, aprendo rápido e estou disposto a enfrentar qualquer desafio!
 Quanto maior o bug melhor é o aprendizado e maior é minha realização pessoal 😁😁😁         
-          
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/raphael-bahr-92a73468/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Raphael Linkedin" height="30" width="40" /></a>
-</p>
-
-
-<!--
-**raphabahr/raphabahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ### Eternal learner of 
@@ -39,7 +18,12 @@ Here are some ideas to get you started:
           
 ### Learning too
 Shopify - Liquid             
-          
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/raphael-bahr-92a73468/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Raphael Linkedin" height="30" width="40" /></a>
+</p>
+
 <div>
 <a href="https://github.com/raphabahr">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphabahr&layout=compact&langs_count=7&theme=dracula"/>
