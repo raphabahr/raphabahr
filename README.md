@@ -9,8 +9,8 @@ My name is Raphael i am Front-end developer.
 
 Amante incondicional de tudo que envolve tecnologia, tenho 34 anos e moro em Santa Catarina, em janeiro de 2022 voltei a estudar Front-end, área qual sou apaixonado!
 </br>
-Minha personalidade é: aprender tudo que posso, conhecimento NUNCA é demais pra mim, aprendo rápido e estou disposto a enfrentar qualquer desafio!
-Quanto maior o bug melhor é o aprendizado e maior é minha realização pessoal 😁😁😁         
+Caracteristicas de minha personalidade são: aprender tudo que posso, conhecimento NUNCA é demais pra mim, aprendo rápido e estou disposto a enfrentar qualquer desafio!
+Quanto maior o bug, melhor é o aprendizado e maior é minha realização pessoal 😁😁😁         
 
 
 ### Eternal learner of 
