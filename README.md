@@ -35,12 +35,6 @@ Shopify - Liquid
 <img src='https://random-memer.herokuapp.com/' title="Meme" width="500" alt="Please refresh the page if the meme doesn't show up.">
           
 <br>
-<!--
- <div>
-   <a href="https://github.com/raphabahr" target="_blank">
-      <img class="" src='https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white' title="steam" width="100" />
-   </a>
-</div>         
--->         
+      
   
  <p class="copyright">&copy; Copyright Raphael Bahr - 2022</p>
