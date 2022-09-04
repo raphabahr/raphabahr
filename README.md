@@ -1,5 +1,6 @@
 ### Hi there ! Welcome to my GitHub profile 👋
-My name is Raphael i am Front-end developer.
+Meu nome é Raphael Bahr sou desenvolvedor Fron-end.
+My name is Raphael Bahr i am Front-end developer.
 
 <div style="display: inline_block"> <br>
 <a href="https://app.daily.dev/Lionbahr"><img src="https://api.daily.dev/devcards/24a31387c60e4136bfc0994a64523ee7.png?r=m2d" width="400" alt="Raphael Bahr's   Dev Card"/></a>
@@ -11,6 +12,9 @@ Amante incondicional de tudo que envolve tecnologia, tenho 34 anos e moro em San
 </br>
 Caracteristicas de minha personalidade são: aprender tudo que posso, conhecimento NUNCA é demais pra mim, aprendo rápido e estou disposto a enfrentar qualquer desafio!
 Quanto maior o bug, melhor é o aprendizado e maior é minha realização pessoal 😁😁😁         
+
+Unconditional lover of everything that involves technology, I'm 34 years old and I live in Santa Catarina-Brazil. In January 2022 i went back to studying Front-end, that area I'm passionate about!
+Characteristics of my personality are: I learn everything I can, knowledge is NEVER too much for me, I learn fast and I am willing to face any challenge! The bigger the bug, the better the learning and the greater my personal accomplishment 😁😁😁         
 
 
 ### Eternal learner of 
