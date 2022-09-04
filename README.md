@@ -15,6 +15,7 @@ Características de minha personalidade são: aprender tudo que posso, conhecime
 Quanto maior o bug, melhor é o aprendizado e maior é minha realização pessoal 😁😁😁         
 
 Unconditional lover of everything that involves technology, I'm 34 years old and I live in Santa Catarina-Brazil. In January 2022 i went back to studying Front-end, that area I'm passionate about!
+</br>
 Characteristics of my personality are: I learn everything I can, knowledge is NEVER too much for me, I learn fast and I am willing to face any challenge! The bigger the bug, the better the learning and the greater my personal accomplishment 😁😁😁         
 
 
