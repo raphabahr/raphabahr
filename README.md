@@ -10,7 +10,7 @@ My name is Raphael Bahr i am Front-end developer.
 
 Amante incondicional de tudo que envolve tecnologia, tenho 34 anos e moro em Santa Catarina, em janeiro de 2022 voltei a estudar Front-end, área qual sou apaixonado!
 </br>
-Caracteristicas de minha personalidade são: aprender tudo que posso, conhecimento NUNCA é demais pra mim, aprendo rápido e estou disposto a enfrentar qualquer desafio!
+Características de minha personalidade são: aprender tudo que posso, conhecimento NUNCA é demais pra mim, aprendo rápido e estou disposto a enfrentar qualquer tipo de desafio!
 Quanto maior o bug, melhor é o aprendizado e maior é minha realização pessoal 😁😁😁         
 
 Unconditional lover of everything that involves technology, I'm 34 years old and I live in Santa Catarina-Brazil. In January 2022 i went back to studying Front-end, that area I'm passionate about!
