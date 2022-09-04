@@ -1,5 +1,6 @@
 ### Hi there ! Welcome to my GitHub profile 👋
 Meu nome é Raphael Bahr sou desenvolvedor Fron-end.
+</br>
 My name is Raphael Bahr i am Front-end developer.
 
 <div style="display: inline_block"> <br>
