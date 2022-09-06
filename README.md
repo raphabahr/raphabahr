@@ -38,8 +38,7 @@ Characteristics of my personality are: I learn everything I can, knowledge is NE
 <a href="https://linkedin.com/in/raphael-bahr-92a73468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphael-bahr-92a73468" height="30" width="40" /></a>
 <a href="https://instagram.com/raphaelbahr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raphaelbahr" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCgMO8z-69ZmAkhGiI5dfgaw" target="blank"><img align="center"          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucgmo8z-69zmakhgii5dfgaw" height="30" width="40" /></a>
-<a href="https://discord.gg/Lion#5757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lion#5757" height="30" width="40" /></a>
-</p>
+
 
 <div>
 <a href="https://github.com/raphabahr">
