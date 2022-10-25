@@ -10,9 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/raphabahr?tab=repositories](https://github.com/raphabahr?tab=repositories)
 
-<div style="display: inline_block"> <br>
-<a href="https://app.daily.dev/Lionbahr"><img src="https://api.daily.dev/devcards/24a31387c60e4136bfc0994a64523ee7.png?r=rc2" width="400" alt="Raphael Bahr's Dev Card"/></a>
 
+<a href="https://app.daily.dev/Lionbahr"><img src="https://api.daily.dev/devcards/24a31387c60e4136bfc0994a64523ee7.png?r=a6m" width="400" alt="Raphael Bahr's Dev Card"/></a>
 
           
 </br>
