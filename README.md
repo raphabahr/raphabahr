@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [My portfólio](https://endearing-arithmetic-cc8603.netlify.app/)
 
-- 🌱 I’m currently learning **Javascript, CSS, HTML and Liquid (shopify)**
+- 🌱 I’m currently learning **Javascript, CSS, HTML, REACT and Liquid (shopify)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raphabahr?tab=repositories](https://github.com/raphabahr?tab=repositories)
 
