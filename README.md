@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [My portfólio](https://endearing-arithmetic-cc8603.netlify.app/)
 
-- 🌱 I’m currently learning **Javascript, CSS, SASS, HTML, REACT and Mysql**
+- 🌱 I’m currently learning **Javascript, SASS, REACT and Mysql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raphabahr?tab=repositories](https://github.com/raphabahr?tab=repositories)
 
