@@ -1,7 +1,7 @@
  
 <h1 align="center">Hi 👋 I'm Raphael Bahr</h1>
 </br>
-<h3 align="center">A frontend developer from Brazil</h3>
+<h3 align="center">A frontend developer and fullstack student from Brazil</h3>
 </br>
 
 - 🔭 I’m currently working on [My portfólio](https://endearing-arithmetic-cc8603.netlify.app/)
