@@ -19,7 +19,7 @@
 
 Olá!!! </br>
 
-Meu nome é Raphael Bahr e sou um desenvolvedor Fullstack junior apaixonado por tecnologia e programação. Com formação em Comércio Exterior e me formando na Trybe como fullstack, estou em busca de oportunidades para colocar em prática meus conhecimentos e crescer profissionalmente nessa área empolgante.</br>
+Meu nome é Raphael Bahr e sou um desenvolvedor Fullstack junior apaixonado por tecnologia e programação. Com formação em Comércio Exterior e me formando na Trybe como fullstack, estou em busca de oportunidades para colocar em prática meus conhecimentos e crescer profissionalmente na área.</br>
 </br>
 Durante minha jornada de aprendizado, adquiri habilidades em diversas linguagens de programação, como JS, Typescript e PHP, além de ter experiência com SASS, bootstrap, react, React-native, Mysql e Wordpress. Através de projetos acadêmicos e pessoais, desenvolvi minha capacidade de resolver problemas de forma criativa e eficiente.</br>
 </br>
