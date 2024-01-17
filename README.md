@@ -20,7 +20,7 @@ Olá!!! </br>
 
 Meu nome é Raphael Bahr e sou um desenvolvedor Fullstack junior apaixonado por tecnologia e programação. Com formação em Comércio Exterior e me formando na Trybe como fullstack, estou em busca de oportunidades para colocar em prática meus conhecimentos e crescer profissionalmente na área.</br>
 </br>
-Durante minha jornada de aprendizado, adquiri habilidades em diversas linguagens de programação, como JS, Typescript e PHP, além de ter experiência com SASS, bootstrap, react, React-native, Mysql e Wordpress. Através de projetos acadêmicos e pessoais, desenvolvi minha capacidade de resolver problemas de forma criativa e eficiente.</br>
+Durante minha jornada de aprendizado, adquiri habilidades em diversas linguagens de programação, como JS, Typescript, C# e PHP, além de ter experiência com SASS, bootstrap, react, React-native, Mysql e Wordpress. Através de projetos acadêmicos e pessoais, desenvolvi minha capacidade de resolver problemas de forma criativa e eficiente.</br>
 </br>
 Sou uma pessoa curiosa e motivada, sempre disposto a aprender coisas novas e enfrentar desafios. Tenho facilidade em trabalhar em equipe e estou aberto a receber feedback para aprimorar minhas habilidades. Sou comprometido com a entrega de resultados de qualidade e busco sempre aprimorar minhas soluções.
 Estou entusiasmado para iniciar minha carreira como desenvolvedor e contribuir em projetos inovadores. </br>
@@ -33,7 +33,7 @@ Hello!!!  </br>
 
 My name is Raphael Bahr, and I am a passionate junior Fullstack developer with a deep interest in technology and programming. With a background in International Trade and currently completing my Fullstack training at Trybe, I am seeking opportunities to apply my knowledge and grow professionally in this exciting field. </br>
 </br>
-Throughout my learning journey, I have acquired skills in various programming languages, such as JS, Typescript, and PHP, and I have experience with SASS, Bootstrap, React, React Native, MySQL, and WordPress. Through academic and personal projects, I have developed my ability to creatively and efficiently solve problems.</br>
+Throughout my learning journey, I have acquired skills in various programming languages, such as JS, Typescript, C# and PHP, and I have experience with SASS, Bootstrap, React, React Native, MySQL, and WordPress. Through academic and personal projects, I have developed my ability to creatively and efficiently solve problems.</br>
 </br>
 I am a curious and motivated individual, always eager to learn new things and take on challenges. I work well in teams and am open to receiving feedback to improve my skills. I am committed to delivering high-quality results and constantly seeking to enhance my solutions.
 I am excited to kickstart my career as a developer and contribute to innovative projects. </br>
