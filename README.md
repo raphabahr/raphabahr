@@ -4,9 +4,8 @@
 <h3 align="center">A frontend developer and fullstack student from Brazil</h3>
 </br>
 
-- 🔭 I’m currently working on [My portfólio](https://endearing-arithmetic-cc8603.netlify.app/)
 
-- 🌱 I’m currently learning **Javascript, SASS, Typescript, REACT and Mysql**
+- 🌱 I’m currently studying  **C#, REACT and Mysql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raphabahr?tab=repositories](https://github.com/raphabahr?tab=repositories)
 
