@@ -5,7 +5,7 @@
 </br>
 
 
-- 🌱 I’m currently studying  **C#, REACT and Mysql**
+- 🌱 I’m currently studying  **C# and REACT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raphabahr?tab=repositories](https://github.com/raphabahr?tab=repositories)
 
