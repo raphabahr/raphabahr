@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently studying  **C# and REACT**
 
+My landing page - raphabahr@gmail.com
+
 - 👨‍💻 All of my projects are available at [https://github.com/raphabahr?tab=repositories](https://github.com/raphabahr?tab=repositories)
 
 
