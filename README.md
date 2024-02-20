@@ -45,8 +45,8 @@ I am open to opportunities for learning and growth, and I am ready to tackle new
 
 <h3 align="left"> Back-end Languages and Tools:</h3>
 <p align="left"> <a href="" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c sharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c sharp" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 </p>
 
