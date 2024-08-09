@@ -5,7 +5,7 @@
 </br>
 
 
-- 🌱 I’m currently studying  **C# and REACT**
+- 🌱 I’m currently studying  **REACT**
 
 - My landing page - www.raphabahr.com
 
