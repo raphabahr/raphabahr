@@ -20,9 +20,13 @@
 
 Olá!!! </br>
 
-Meu nome é Raphael Bahr e sou um desenvolvedor Fullstack apaixonado por tecnologia e programação. Com formação em Comércio Exterior e me formando na Trybe como fullstack, estou em busca de oportunidades para colocar em prática meus conhecimentos e crescer profissionalmente na área.</br>
+Meu nome é Raphael Bahr e sou um desenvolvedor Fullstack apaixonado por tecnologia e programação. Com formação em Comércio Exterior, estou em busca de oportunidades para colocar em prática meus conhecimentos e crescer profissionalmente na área.</br>
 </br>
-Durante minha jornada de aprendizado, adquiri habilidades em diversas linguagens de programação, como JS, Typescript, C# e PHP, além de ter experiência com SASS, bootstrap, React, Mysql e Wordpress. Através de projetos acadêmicos e pessoais, desenvolvi minha capacidade de resolver problemas de forma criativa e eficiente.</br>
+Durante minha jornada de aprendizado e experiência profissional, desenvolvi habilidades sólidas em diversas linguagens de programação e ferramentas. Tenho experiência com JavaScript e TypeScript, especialmente no desenvolvimento de aplicações robustas e dinâmicas, como ERPs.
+
+Com C#, adquiri uma compreensão na construção de soluções backend eficientes, aproveitando a linguagem para consumir APIs e integrar diferentes sistemas de forma eficaz. Além disso, minhas habilidades em SASS, Tailwind e Bootstrap me permitem criar interfaces de usuário responsivas e modernas, enquanto o conhecimento em React me capacita a desenvolver aplicações frontend interativas e escaláveis.
+
+Meu background também inclui experiência com bancos de dados como MySQL e SQL Server, onde desenvolvi e otimizei consultas para garantir o desempenho e a integridade dos dados. Ao longo dos meus projetos acadêmicos e pessoais.</br>
 </br>
 Sou uma pessoa curiosa e motivada, sempre disposto a aprender coisas novas e enfrentar desafios. Tenho facilidade em trabalhar em equipe e estou aberto a receber feedback para aprimorar minhas habilidades. Sou comprometido com a entrega de resultados de qualidade e busco sempre aprimorar minhas soluções.
 Estou entusiasmado para iniciar minha carreira como desenvolvedor e contribuir em projetos inovadores. </br>
@@ -33,10 +37,17 @@ Estou aberto a oportunidades de aprendizado e crescimento, e pronto para enfrent
 
 Hello!!!  </br> 
 
-My name is Raphael Bahr, and I am a passionate junior Fullstack developer with a deep interest in technology and programming. With a background in International Trade and currently completing my Fullstack training at Trybe, I am seeking opportunities to apply my knowledge and grow professionally in this exciting field. </br>
+My name is Raphael Bahr, and I am a Fullstack developer passionate about technology and programming. With a background in Foreign Trade, I am seeking opportunities to put my knowledge into practice and grow professionally in the field.</br>
 </br>
-Throughout my learning journey, I have acquired skills in various programming languages, such as JS, Typescript, C# and PHP, and I have experience with SASS, Bootstrap, React, React Native, MySQL, and WordPress. Through academic and personal projects, I have developed my ability to creatively and efficiently solve problems.</br>
+Throughout my learning journey and professional experience, I have developed strong skills in various programming languages and tools. I have experience with JavaScript and TypeScript, particularly in developing robust and dynamic applications such as ERPs.</br>
 </br>
+
+With C#, I have gained a solid understanding of building efficient backend solutions, leveraging the language to consume APIs and integrate different systems effectively. Additionally, my skills in SASS, Tailwind and Bootstrap allow me to create responsive and modern user interfaces, while my knowledge in React enables me to develop interactive and scalable frontend applications.</br>
+</br>
+
+My background also includes experience with databases such as MySQL and SQL Server, where I have developed and optimized queries to ensure data performance and integrity throughout my academic and personal projects.</br>
+</br>
+
 I am a curious and motivated individual, always eager to learn new things and take on challenges. I work well in teams and am open to receiving feedback to improve my skills. I am committed to delivering high-quality results and constantly seeking to enhance my solutions.
 I am excited to kickstart my career as a developer and contribute to innovative projects. </br>
 </br>
